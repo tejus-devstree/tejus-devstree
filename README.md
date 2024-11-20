@@ -20,4 +20,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=express,js,nodejs,mongodb,postman,gitlab,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,js,nodejs,mongodb,postman,gitlab,git,vscode,docker)](https://skillicons.dev)
