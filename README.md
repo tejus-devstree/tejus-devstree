@@ -21,5 +21,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=express,js,nodejs,mongodb,postman,gitlab,git,vscode)](https://skillicons.dev)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejus-devstree&show_icons=true&locale=en&layout=compact"/></p>
