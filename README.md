@@ -6,11 +6,11 @@
 
 -   📝 Work Profile [**Gitlab**](https://git.devstree.com/tejus.devstree) [**Github**](https://github.com/tejus-devstree/)
 
--   🌱 Working with **Node, Express, Mongodb**
+-   🌱 Working with **Node, Express, Mongodb, NestJS**
 
--   😎 Languages I know **Javascript**
+-   😎 Languages I know **Javascript, Typescript**
 
--   🌠 Learning **Golang, Typescript**
+-   🌠 Learning **Golang Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=express,js,nodejs,mongodb,postman,gitlab,git,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,js,nodejs,mongodb,postman,gitlab,git,vscode,docker,lambda)](https://skillicons.dev)
