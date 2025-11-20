@@ -4,7 +4,7 @@
 
 -   💼 Working as a **Backend Developer Intern** at [**Devstree IT India**](https://www.devstree.com/)
 
--   📝 Work Profile [**Gitlab**](https://git.devstree.com/tejus.devstree) [**Github**](https://github.com/tejus-devstree/)
+-   📝 Work Profile [**Gitlab**](https://git.devstree.in/tejus.devstree) [**Github**](https://github.com/tejus-devstree/)
 
 -   🌱 Working with **Node, Express, Mongodb, NestJS**
 
