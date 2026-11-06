@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer.</h3>
 
 
--   💼 Working as a **Backend Developer Intern** at [**Devstree IT India**](https://www.devstree.com/)
+-   💼 Working as a **SDE** at [**Devstree IT India**](https://www.devstree.com/)
 
 -   📝 Work Profile [**Gitlab**](https://git.devstree.in/tejus.devstree) [**Github**](https://github.com/tejus-devstree/)
 
